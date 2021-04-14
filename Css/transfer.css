@@ -1,0 +1,85 @@
+body{
+	background-image: url("../img/newp.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.head-class{
+	background-image: url("../img/temp.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100px;
+	margin: 10px;
+	border:outset;
+}
+
+.head-nav{
+	height: 20px;
+	width: 30px;
+}
+
+.head-nav a{
+	margin: 10px;
+	padding: 10px;
+	color: white;
+	height: 15px;
+	text-decoration-line: none;
+}
+
+h1{
+	margin-top:5px;
+	padding: 0.5%;
+	text-align: center;
+	color: white;
+	font-family: Algerian, Century, Bernard MT Condensed, Arial;
+	font-size: 50px; 
+}
+
+.form-div{
+	margin-left: 550px;
+	margin-top: 50px;
+}
+
+h4{
+	color: black;
+	font-family: Century, Bernard MT Condensed, Arial;
+	font-size: 25px; 
+}
+
+select {
+  margin-left: 10%; 
+  width: 50%;
+  height: 30px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+  font-weight: 20px;
+}
+
+input{
+  margin-left: 10%; 
+  width: 50%;
+  height: 30px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+  font-weight: 20px;
+}
+
+input[type=submit]{
+  background-image:url("../img/temp.jpg");
+  border: none;
+  color: white;
+  padding: 6px 3px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 30%;
+  height: 40px;
+  font-size: 20px;
+  font-family: Century, Bernard MT Condensed, Arial;
+  float: left;
+
+}

@@ -1,0 +1,107 @@
+body{
+	background-image: url("../img/bacc.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+header{
+	background-image: url("../img/temp.jpg");
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+	border: outset;
+}
+
+header h1{
+	margin-top:10px;
+	padding: 1%;
+	text-align: center;
+	color: white;
+	font-family: Algerian, Century, Bernard MT Condensed, Arial;
+	font-size: 50px;
+}
+
+
+.divq nav{
+	display: inline-block;
+	float: right;
+	padding: 5px;
+}
+
+.divq nav a{
+	color: black;
+	font-family: Century, Bernard MT Condensed, Arial;
+	font-size: 20px;
+	text-decoration-line: none;
+}
+
+.divq nav a:hover{
+	color: white;
+	font-family: Bernard MT Condensed, Arial;
+	font-size: 20px;
+	text-decoration-line: none;
+}
+
+.table-div{
+	margin-top: 150px;
+	margin-left: 200px;
+}
+
+.tab-tab{
+  	border: 2px black;
+  	border-style: outset;
+  	width: 80%;
+  	height: 100%;
+  	border-collapse: collapse;
+	box-shadow: 0 10px 20px 0 rgba(0,0,0,.03);
+	border-right: 10px;
+	margin: auto;
+}
+
+th, td{
+	height: 30px;
+	text-align: center;
+	font-family: Arial, Bernard MT Condensed;
+	border : 1px outset #f2f2f2;
+	padding: 8px 30px;
+	color: #800000;
+}
+
+.tab-head{
+	text-transform: uppercase;
+	font-weight: 500;
+}
+
+.tab-tr{
+	background-color: #f2f2f2;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.tab-body{
+
+}
+
+.fa{
+	font-size: 22px;
+}
+
+.fa-edit{
+	color: #2F4F4F;
+}
+
+footer{
+	border: outset;
+	height: 60px;
+	margin-top: 300px;
+	padding-bottom: 10px;
+}
+
+footer p{
+	color: white;
+	font-family: Algerian, Century, Bernard MT Condensed, Arial;
+	font-size: 20px;
+	float: left;
+
+}
