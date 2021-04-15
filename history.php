@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Home Page</title>
-	<link rel="stylesheet" type="text/css" href="../BankAppmaster/Css/history.css">
+	<link rel="stylesheet" type="text/css" href="Css/history.css">
 </head>
 <body>
 		<header class="head-class">
