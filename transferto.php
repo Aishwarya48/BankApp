@@ -79,7 +79,7 @@
 <html>
 <head>
 	<title>Money Transfer Portal</title>
-	<link rel="stylesheet" type="text/css" href="../BankAppmaster/Css/transfer.css">
+	<link rel="stylesheet" type="text/css" href="Css/transfer.css">
 </head>
 <body>
 	<header class="head-class">
