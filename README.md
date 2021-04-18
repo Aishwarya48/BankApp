@@ -7,6 +7,6 @@ The Spark foundation internship project : Basic Bank App
 LANGUAGE : HTML, CSS, PHP
 DATABASE : MYSQL 
 
-WEBSITE UEL : https://ashwarya.000webhostapp.com/
+WEBSITE URL : https://ashwarya.000webhostapp.com/
 
 #THESPARKSFOUNDATION #GRIPAPRIL21
