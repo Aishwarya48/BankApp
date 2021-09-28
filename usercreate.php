@@ -42,11 +42,11 @@
 	<form action=" " method="POST">
 		<div class="form-div">
 			<caption><h4>Customer Name :</h4></caption>
-			<input type="text" name="cust_name" class="required" placeholder="Customer Name">
+			<input type="text" name="cust_name" class="required" placeholder="Customer Name" id="session_name">
 			<caption><h4>Email Id :</h4></caption>
-			<input type="email" name="mail" class="required" placeholder="ahds@gmail.com">
+			<input type="email" name="mail" class="required" placeholder="ahds@gmail.com" id="session_email">
 			<caption><h4>Account Balance :</h4></caption>
-			<input type="number" name="curr_bal" class="required" placeholder="20000">
+			<input type="number" name="curr_bal" class="required" placeholder="20000" id="session_balance">
 			<br><br>
 			<input type="submit" name="Submit" value="Add User">
 		</div>			
